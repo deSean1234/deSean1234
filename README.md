@@ -1,4 +1,8 @@
-### Hi there 👋
+
+- 👋 Hi, I’m Sean
+- 👀 I’m interested in learning to develop my coding skills, and Swimming
+- 🌱 I’m currently learning python and C#
+
 
 <!--
 **deSean1234/deSean1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
