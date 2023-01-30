@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Sean
-- 👀 I’m interested in learning to develop my coding skills, and Swimming
-- 🌱 I’m currently learning python and C#
+- 👀 I’m interested in learning to develop my coding skills
+- 🌱 I’m currently learning python and c#
 
 
 <!--
